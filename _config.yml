@@ -1,14 +1,14 @@
 # Site
 title:              Ravicharan
-bio:                'UG at IIIA | Bibliophile | TV Series addict | movie fanatic '
-description:        "My personal blog page made with Jekyll framework"
+bio:                'Bibliophile | UG @ IIITA | TV Series addict |   '
+description:        "My personal blog built on jekyll framework"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://ravicharann.github.io/
+url:                https://taylantatli.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+twitter:            Ravi_746
+facebook:           ravi.charan.5680
 github-url:         RavicharanN
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
