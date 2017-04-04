@@ -1,5 +1,5 @@
 # Blog
-My personal blog built on Jekyll framework. Know more about the moon theme [here](https://taylantatli.github.io/Moon).
+My [personal blog](https://ravicharann.github.io/blog) built on Jekyll framework. Know more about the moon theme [here](https://taylantatli.github.io/Moon).
 
 ## Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
 **[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
