@@ -9,7 +9,7 @@ tag:
 project: false
 ---
 
-![DNA]({{ site.url }}/assets/dna.jpg)
+![DNA]({{ site.url }}/assets/img/dna.jpg)
 
 Have you ever wondered whether you yourself can be a massive data storage centre. Did you know that one gram of your DNA can store the whole internet in it? Nature's code for life is stored in DNA, but what if we could code anything we wanted into DNA? Scientists from Microsoft and the University of Washington have reached an early but important milestone in synthetic DNA storage by storing 200 megabytes of data on the molecular strands.
 
@@ -17,7 +17,7 @@ Have you ever wondered whether you yourself can be a massive data storage centre
 
 Click on the image below:
 
-[![VideoLink]({{ site.url }}/assets/dna-vid.jpg)](https://www.youtube.com/watch?v=qloX87Apz2o)
+[![VideoLink]({{ site.url }}/assets/img/dna-vid.jpg)](https://www.youtube.com/watch?v=qloX87Apz2o)
 
 Sounds surprising right? Basically that's true. DNA serves as the natures hard drive. There's no doubt about it, the world’s biggest technology firms are rushing to build data centres all over the globe. Microsoft wants to use synthetic DNA strands to store the world’s data. And that could make giant data centres obsolete.
 
@@ -45,7 +45,7 @@ _**Scope of DNA digital storage**_
 
 8. There would be no data centre. You can serve as the storing unit for massive amount of data.
 
-![SUrpriseDP]({{ site.url }}/assets/dp.jpg)
+![SUrpriseDP]({{ site.url }}/assets/img/dp.jpg)
 
 The scope of this is way beyond you can imagine.But, the first question that comes to one's mind is:
 
