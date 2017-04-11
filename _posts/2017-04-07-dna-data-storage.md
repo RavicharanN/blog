@@ -2,10 +2,13 @@
 layout: post
 title:  "DNA: The new data storage"
 date:   2017-04-07
+excerpt: "An insight of the growing technol0gy"
 tag:
-- blog
+- markdown 
+- syntax
+- sample
+- test
 - jekyll
-- techology
 project: false
 ---
 
