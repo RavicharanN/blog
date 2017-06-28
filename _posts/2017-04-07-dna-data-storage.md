@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "DNA: The new data storage"
-date:   2017-04-07
-excerpt: "An insight of the growing technol0gy"
+title:  "DNA data storage"
+date:   2016-03-15
+excerpt: " "
 tag:
 - markdown 
 - syntax
 - sample
 - test
 - jekyll
-project: false
-future:             true
-published:          true
+comments:  true
+future:    true
+published: true
 ---
 
 ![DNA]({{ site.url }}/assets/img/dna.jpg)
