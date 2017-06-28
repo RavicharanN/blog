@@ -10,6 +10,8 @@ tag:
 - test
 - jekyll
 project: false
+future:             true
+published:          true
 ---
 
 ![DNA]({{ site.url }}/assets/img/dna.jpg)
