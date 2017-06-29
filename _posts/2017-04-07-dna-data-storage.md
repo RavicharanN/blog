@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "DNA data storage"
-date:   2016-03-15
-excerpt: " "
+date:   2017-06-15
+excerpt: "The revolution in data Storage "
 tag:
 - markdown 
 - syntax
