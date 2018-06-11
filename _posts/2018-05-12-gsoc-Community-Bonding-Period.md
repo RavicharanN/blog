@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GSoc: Community Bonding Period"
+title:  "GSoC: Community Bonding Period"
 date:   2018-05-12
-excerpt: ""
+excerpt: "GSoC'18 Community bonding blog"
 tag:
 - markdown 
 - syntax
