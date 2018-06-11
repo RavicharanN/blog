@@ -2,7 +2,7 @@
 layout: post
 title:  "Using automaton for word reduction in Rewriting Systems"
 date:   2018-05-28
-excerpt: ""
+excerpt: "GSoC'18 Week 1 and 2"
 tag:
 - markdown 
 - syntax
