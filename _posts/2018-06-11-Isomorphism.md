@@ -53,7 +53,7 @@ However, isomorphism could be directly decided between 2 group in the following 
 * A method `is_isomorphic` has been implemented for convenient usage, which calls `group_isomorphism(..., isomorphism=False)` 
 
 ## Trvial example 
-The word is recuded using the automaton as follows:
+The isomorphism is computed between 2 groups as follows:
 ```
 >>> F, a, b = free_group("a, b")
 >>> G = FpGroup(F, [a**3, b**3, (a*b)**2])
@@ -66,7 +66,7 @@ Permutation(0 2 3)
 ```
 
 ## PR
-[Here](https://github.com/sympy/sympy/pull/14861) is the link to the PR 'Add methods for isomorphism computatio'. This, currently, still needs minor changes and will be finalised soon. 
+[Here](https://github.com/sympy/sympy/pull/14861) is the link to the PR 'Add methods for isomorphism computation'. This, currently, still needs minor changes and will be finalised soon. 
 
 ## References 
 * [1] [Blog](https://www.naftaliharris.com/blog/groupiso/) by [Naftali Harris](https://www.naftaliharris.com/) which talks about Tarjan's method for isomorpihsm computation.  
