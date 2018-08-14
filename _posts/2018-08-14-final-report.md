@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Polycyclic groups - Part1"
-date:   2018-07-11
-excerpt: "GSoC'18 Week 7 & 8"
+title:  "GSoC 2018 Final Report"
+date:   2018-08-14
+excerpt: "This post contains an abstract of the work done during GSoC'18"
 tag:
 - markdown 
 - syntax
