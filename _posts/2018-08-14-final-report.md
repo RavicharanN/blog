@@ -2,7 +2,7 @@
 layout: post
 title:  "GSoC 2018 Final Report"
 date:   2018-08-14
-excerpt: "This post contains an abstract of the work done during GSoC'18"
+excerpt: "This post summarizes the work done on the Group Theory part of the combinatorics module during 2018 summers as a part of the GSoC programme"
 tag:
 - markdown 
 - syntax
